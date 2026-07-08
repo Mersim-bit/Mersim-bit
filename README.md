@@ -19,7 +19,7 @@ interests:
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mersim-bit&theme=darkhub&no-frame=true&margin-w=15&column=7" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Mersim-bit" alt="Trophies" />
 </p>
 
 ---
