@@ -6,7 +6,7 @@
 <h1 align="center">Hi there, I'm Mersim-bit 👋</h1>
 
 ```yaml
-name: Mersim
+name: Mersim-bit
 location: Turkey
 interests:
   - Backend Development
@@ -41,11 +41,6 @@ interests:
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Mersim-bit&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mersim-bit&layout=compact&theme=dark&hide_border=true" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mersim-bit&theme=dark&hide_border=true" alt="Streak" />
 </p>
 
@@ -58,16 +53,12 @@ interests:
 ### 📌 Pinned Projects
 
 <a href="https://github.com/Mersim-bit/escuadra">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mersim-bit&repo=escuadra&theme=dark&hide_border=true" />
 </a>
 <a href="https://github.com/Mersim-bit/kairos-atlas-repo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mersim-bit&repo=kairos-atlas-repo&theme=dark&hide_border=true" />
 </a>
 <a href="https://github.com/Mersim-bit/docs-apim">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mersim-bit&repo=docs-apim&theme=dark&hide_border=true" />
 </a>
 <a href="https://github.com/Mersim-bit/edge-ai">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mersim-bit&repo=edge-ai&theme=dark&hide_border=true" />
 </a>
 
 ---
@@ -76,7 +67,7 @@ interests:
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Mersim-bit/Mersim-bit/output/github-contribution-grid-snake-dark.svg" alt="Snake" />
-</p>
+</p> 
 
 ---
 
@@ -90,34 +81,11 @@ interests:
 
 ---
 
-### 🎵 Now Playing
-
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=your-spotify-id&cover_image=true&theme=dark&show_offline=false&background_color=121212&interchange=true" alt="Spotify" />
-</p>
-
-> *Replace `your-spotify-id` with your Spotify username. Powered by [Spotify GitHub Profile](https://github.com/kittinan/spotify-github-profile).*
-
----
-
-### 📅 Weekly Coding Stats
-
-<!--START_SECTION:waka-->
-```text
-No data yet — connect WakaTime and add your API key.
-```
-<!--END_SECTION:waka-->
-
-> *Set up [WakaTime](https://wakatime.com) and use [github-readme-stats wakatime](https://github.com/anuraghazra/github-readme-stats#wakatime-week-stats) to track your coding activity.*
-
----
-
 ### ⚡ Fun Facts
 
 - 🔭 Currently working on open-source contributions
 - 🌱 Currently exploring Rust and Go
 - 💡 Love solving engineering problems
-- ☕ Code runs on coffee
 - 🌍 Based in Turkey
 
 ---
@@ -125,10 +93,8 @@ No data yet — connect WakaTime and add your API key.
 ### 📫 Connect with Me
 
 <p align="center">
-  <a href="https://github.com/Mersim-bit"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://stackoverflow.com/users/your-id"><img src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/Mersim-bit"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>>
+  <a href="mailto:poyrazarasulker3333@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
