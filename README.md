@@ -63,14 +63,6 @@ interests:
 
 ---
 
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Mersim-bit/Mersim-bit/output/github-contribution-grid-snake-dark.svg" alt="Snake" />
-</p> 
-
----
-
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
